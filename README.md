@@ -26,6 +26,21 @@ It shows live battery, charging, adapter, and system power flow data in a compac
 make clean && make
 ```
 
+This produces the executable:
+
+```bash
+./battview
+```
+
+## Install
+
+Install via Homebrew:
+
+```bash
+brew tap NekoSosu/tap
+brew install battview
+```
+
 ## Usage
 
 Run live monitor:
